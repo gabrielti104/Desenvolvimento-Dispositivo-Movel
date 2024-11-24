@@ -1,4 +1,4 @@
-# Projeto Integrador
+# Projeto Integrador - +Saúde
 Repositório destinado ao Projeto Integrador: Desenvolvimento de Sistemas Orientado a Dispositivos Móveis e Baseados na Web.
 O grupo contem 6 integrantes:
 
