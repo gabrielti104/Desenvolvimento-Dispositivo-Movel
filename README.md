@@ -14,7 +14,7 @@ Apresentação de um sistema para dispositivos móveis para o gerenciamento de i
 
 ## Mapa de Navegação das Telas
 <div align="left">
-<img src="https://github.com/user-attachments/assets/12f4b698-8cf1-4fe1-9aec-c2bdfb224c64" width="200px" />
+<img src="https://github.com/user-attachments/assets/12f4b698-8cf1-4fe1-9aec-c2bdfb224c64" width="500px" />
 </div>
 Fonte: elaborada pelo autor Mayara Sousa Silva (2024).
 
