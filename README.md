@@ -2,7 +2,7 @@
 Repositório destinado ao Projeto Integrador: Desenvolvimento de Sistemas Orientado a Dispositivos Móveis e Baseados na Web.
 O grupo contem 6 integrantes:
 
-- Denis Rodrigues de Almeida
+- Denis Rodrigues de Almeida 
 - Gabriel Sousa Silva
 - Ivisnaldo de Sousa Simplicio
 - Jackeline Akemi de Moura
@@ -11,6 +11,12 @@ O grupo contem 6 integrantes:
 
 ## Descrição/Objetivo
 Apresentação de um sistema para dispositivos móveis para o gerenciamento de informações médicas pessoais. 
+
+## Mapa de Navegação das Telas
+<div align="left">
+<img src="https://github.com/user-attachments/assets/12f4b698-8cf1-4fe1-9aec-c2bdfb224c64" width="200px" />
+</div>
+Fonte: elaborada pelo autor Mayara Sousa Silva (2024).
 
 ## Telas 
 * Login - permite acessar a área restrita do usuário;
