@@ -12,6 +12,12 @@ O grupo contem 6 integrantes:
 ## Descrição/Objetivo
 Apresentação de um sistema para dispositivos móveis para o gerenciamento de informações médicas pessoais. 
 
+## Mapa de Navegação das Telas
+<div align="left">
+<img src="https://github.com/user-attachments/assets/dcd97214-c381-47cc-829a-e38b03abd83b" width="500px" />
+</div>
+Fonte: elaborada pelo autor Mayara Sousa Silva (2024).
+
 ## Telas 
 * Login - permite acessar a área restrita do usuário;
 * Home - apresenta as opções do aplicativo;
@@ -56,7 +62,7 @@ Fonte: elaborada pelo autor Ivisnaldo de Sousa Simplicio (2024).
 </div>
 Fonte: elaborada pelo autor Denis Rodrigues De Almeida (2024).
 
-### Comandos para inicialização
+## Comandos para inicialização/Link de Instalação do aplicativo
 1. Instalação das dependências
 
    npm install
@@ -64,3 +70,6 @@ Fonte: elaborada pelo autor Denis Rodrigues De Almeida (2024).
 2. Iniciar o aplicativo
 
     npx expo start
+
+3. Link de Instalação
+https://expo.dev/accounts/ggdelas07/projects/ProjetoIntegrador2/builds/5f90dfdd-8b62-474b-a08b-aaa6a5c53e97
