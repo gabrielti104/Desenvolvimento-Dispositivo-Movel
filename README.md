@@ -1,8 +1,8 @@
-# Projeto Integrador
+# +Saúde
 Repositório destinado ao Projeto Integrador: Desenvolvimento de Sistemas Orientado a Dispositivos Móveis e Baseados na Web.
 O grupo contem 6 integrantes:
 
-- Denis Rodrigues de Almeida
+- Denis Rodrigues de Almeida 
 - Gabriel Sousa Silva
 - Ivisnaldo de Sousa Simplicio
 - Jackeline Akemi de Moura
